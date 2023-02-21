@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/whileLoops.js" line="14" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ab4653c1-86e7-4cee-bec6-e8e7b7a7f4c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/conditionals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inputNotes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whileLoops.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whileLoops1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -37,11 +38,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/input2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="33" column="10" lean-forward="true" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+            <state relative-caret-position="136">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="16" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/whileLoops.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="33" selection-start-line="33" selection-end-line="41" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/whileLoops1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -49,7 +68,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/input1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
+            <state relative-caret-position="969">
               <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
             </state>
           </provider>
@@ -75,6 +94,8 @@
         <option value="$PROJECT_DIR$/inputNotes.js" />
         <option value="$PROJECT_DIR$/input1.js" />
         <option value="$PROJECT_DIR$/input2.js" />
+        <option value="$PROJECT_DIR$/whileLoops.js" />
+        <option value="$PROJECT_DIR$/whileLoops1.js" />
       </list>
     </option>
   </component>
@@ -89,7 +110,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,6 +121,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,6 +165,7 @@
       <workItem from="1676410090285" duration="243000" />
       <workItem from="1676496660554" duration="2609000" />
       <workItem from="1676582751091" duration="2932000" />
+      <workItem from="1677014799590" duration="3020000" />
     </task>
     <task id="LOCAL-00001" summary="adding chapter 2 notes">
       <created>1675720023173</created>
@@ -156,14 +178,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12484000" />
+    <option name="totallyTimeSpent" value="15504000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="886" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49016392" visible="true" weight="0.23349057" />
-      <window_info id="Structure" order="1" sideWeight="0.5098361" side_tool="true" visible="true" weight="0.23349057" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48688525" visible="true" weight="0.23349057" />
+      <window_info id="Structure" order="1" sideWeight="0.51311475" side_tool="true" visible="true" weight="0.23349057" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -212,15 +233,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/input1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
+        <state relative-caret-position="969">
           <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/input2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="33" column="10" lean-forward="true" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+        <state relative-caret-position="136">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="16" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whileLoops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="33" selection-start-line="33" selection-end-line="41" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whileLoops1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
